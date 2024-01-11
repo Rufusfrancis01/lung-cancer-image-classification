@@ -1,0 +1,1 @@
+This python code downloads the dataset used directly from kaggle and arranges them in required directories for smooth training of the model.The model used is vgg19 with imagenet weigths where the first 14 layers are frozen and few additional layers have been added to classify the images into 4 different category
